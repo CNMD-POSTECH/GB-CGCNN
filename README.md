@@ -1,7 +1,7 @@
 # boosting-CGCNN
 
-Implementation codes for Boosting-Crystal Graph Convolutional Neural Network (Boosting-CGCNN) [Link](https://pubs.acs.org/doi/10.1021/acsami.4c07851).
-(This repository contains the same content as https://github.com/sunilegna/GB-CGCNN.)
+Implementation codes for Boosting-Crystal Graph Convolutional Neural Network (Boosting-CGCNN) [Link](https://pubs.acs.org/doi/10.1021/acsami.4c07851).\n
+(Dataset used in the training can be found in https://github.com/sunilegna/GB-CGCNN which contains the same content as this repository.)
 
 <p align="center">
   <img src="assets/Fig-1.png" alt="Overview" width="450"/>
